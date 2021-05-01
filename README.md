@@ -4,5 +4,8 @@ This snippet is inspired by [Webroom](https://www.webroomtech.com/change-product
 
 My modifications are line no. 22 and 26.
 
+Please submit issue if you encounter any error.
+
 ## PHP Scripts
+
 
